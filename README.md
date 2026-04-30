@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ambalabs/assets/main/ambalabs-logo.png" alt="Ambalabs Logo" width="120" />
-
-  <h1>Ambalabs</h1>
+  <h1>AmbaLabs</h1>
 
   <p>
     <strong>Digital Innovation Studio for Modern Brands, Startups, and Scalable Products.</strong>
